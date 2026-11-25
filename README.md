@@ -531,7 +531,7 @@ These experiences have demonstrated how geographical barriers, financial constra
 
 They have also reinforced the importance of community participation in public health interventions.
 
-Organizing a school-wide screening that reached 482 students demonstrated the potential of academic institutions as platforms for preventive healthcare delivery and health promotion.
+Organizing a school-wide screening that reached 682 students demonstrated the potential of academic institutions as platforms for preventive healthcare delivery and health promotion.
 
 Delivering mental health education within an academic environment and leading health education at Adum Market reinforced the importance of addressing psychological well-being alongside physical health.
 
