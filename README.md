@@ -30,7 +30,7 @@ These initiatives reflect my commitment to reducing barriers to healthcare acces
 
 | Initiative | Documented Output |
 | --- | ---: |
-| KNUST School-Wide Health Screening | 482 students screened |
+| KNUST School-Wide Health Screening | 682 students screened |
 | Gambaga Humanitarian Health Outreach | 141 individuals screened |
 | Women Screened at Gambaga Outcast Home | 87 |
 | Children Screened at Gambaga Outcast Home | 40 |
@@ -108,7 +108,7 @@ The outreach screening figures were verified by the Medical Superintendent of Ga
 
 Organized a university-wide health screening initiative in collaboration with healthcare personnel and partner organizations to promote preventive healthcare and early identification of health concerns among students.
 
-The screening reached 482 students.
+The screening reached 682 students.
 
 Recognizing the importance of mental health within academic environments, I also organized and delivered a school-wide health education talk titled:
 
@@ -122,7 +122,7 @@ The programme also incorporated blood donation mobilization, bringing together h
 
 **Selected Outputs**
 
-- 482 students reached through health screening.
+- 682 students reached through health screening.
 - School-wide mental health education delivered.
 - Healthcare personnel and partner organizations mobilized.
 - Student blood donation programme organized.
@@ -408,7 +408,7 @@ The following register documents my participation in community healthcare, medic
 | Date | Activity |
 | --- | --- |
 | 28 October 2023 | Medical School Outreach, Kumasi Wesley Girls SHS — Breast Cancer Screening and Awareness |
-| 22 July 2023 | NUGS Health Talk, Screening and Blood Donation Programme, KNUST — Organizer; 482 students screened |
+| 22 July 2023 | NUGS Health Talk, Screening and Blood Donation Programme, KNUST — Organizer; 682 students screened |
 | 22 July 2023 | School-Wide Mental Health Talk: "Beyond the Grades: Your Mental Health Matters Too" — Organizer and Speaker |
 | 2023 | NUGS Health Committee Health Screening and STI Education — Organizer |
 | 2023 | KNUST SRC Health Screening — Committee Member |
