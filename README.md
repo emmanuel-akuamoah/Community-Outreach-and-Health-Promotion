@@ -24,19 +24,25 @@ Beyond clinical service delivery, my contributions have included programme organ
 
 These initiatives reflect my commitment to reducing barriers to healthcare access, promoting preventive medicine and improving population health outcomes.
 
+Links to event photos have been included throughout the report
+
 ---
 
 ## 2. Selected Quantified Achievements
 
-| Initiative | Documented Output |
-| --- | ---: |
-| KNUST School-Wide Health Screening | 682 students screened |
-| Gambaga Humanitarian Health Outreach | 141 individuals screened |
-| Women Screened at Gambaga Outcast Home | 87 |
-| Children Screened at Gambaga Outcast Home | 40 |
-| Surrounding Community Members Screened in Gambaga | 14 |
-| Women Identified with Elevated Blood Pressure in Gambaga | 29 (33.3%) |
-| Donor Hub Blood Donation Programme, Asante Akyem Agogo | 141 pints of blood collected |
+### Selected Quantified Impact
+
+| Initiative | Quantified impact |
+|---|---:|
+| Breast cancer awareness and screening – Kumasi Wesley Girls’ SHS | 2,000 students screened |
+| NUGS health screening and blood drive | 682 students reached |
+| Gambaga humanitarian health outreach | 141 individuals screened |
+| Donor Hub blood drive – Agogo | 141 units of blood collected |
+| MedFund initiative | 160 cumulative beneficiaries |
+| Student mentorship | 70+ students mentored |
+| STEM educational support | 9 students financially supported |
+| Substance abuse rehabilitation initiative | 12 individuals completed rehabilitation |
+| Antenatal depression research | 332 pregnant women surveyed |
 
 These figures represent selected documented outputs from individual initiatives rather than the cumulative number of beneficiaries across all activities in this portfolio.
 
@@ -256,13 +262,13 @@ By engaging members of the public within their everyday environment, the campaig
 ### 4.7 Breast Cancer Screening and Awareness Outreach
 
 **Institution:** Kumasi Wesley Girls Senior High School  
-**Date:** 28 October 2023
+**Date:** 27-29 October 2023
 
 Participated in a school-based breast cancer awareness initiative promoting preventive health education among students.
 
 The initiative emphasized the importance of breast health awareness, early recognition of concerning symptoms and appropriate healthcare-seeking behavior.
 
-In addition to health education, the outreach incorporated breast cancer screening activities.
+In addition to health education, the outreach incorporated breast cancer screening activities, reaching 2,000 students over three days
 
 The outreach reflected the importance of introducing preventive health education to young people within educational institutions.
 
